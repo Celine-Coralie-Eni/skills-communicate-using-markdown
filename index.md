@@ -5,3 +5,4 @@
 2. Commit a file
 3. Open a pull request
 4. Merge a pull request
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
